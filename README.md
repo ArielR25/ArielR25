@@ -24,9 +24,8 @@
 ---
 
 ---
-  Otros trabajos
-  ===
-
+  ### Otros trabajos
+  
   Si bien todavia sigo modificando los trabajos, ya se encuentran deployados o en proceso algunos de ellos
 
   ## Portafolio
