@@ -27,7 +27,7 @@
   ### Otros trabajos
   
   Si bien todavia sigo modificando los trabajos, ya se encuentran deployados o en proceso algunos de ellos
-
+    
   ## Portafolio
 
   Esta es mi página de presentación, está realizada con React y CSS3
@@ -40,6 +40,19 @@
   #### Aquí te dejo una captura: : )
   
   ![image](https://user-images.githubusercontent.com/82990938/128885605-d535abf2-9574-4922-88bd-e0a53c80c9c0.png)
+
+  ## Mundo Gaming
+
+Esta es una API para usuarios no programadores, para encontrar información sobre video juegos, pueden buscarlos por nombres, categorías, ordenarlos por valoración, y otras funcionalidades mas.
+Esta página se encuenta en desarrollo, todavía tengo muchas ideas para implementarle :bulb:
+
+Todavia no la deployé :see_no_evil: pero aqui te dejo un link al repo: :wink:
+
+[Mundo Gaming](https://github.com/ArielR25/MundoGaming)
+
+Y por aquí unas capturas de spoiler :joy:
+
+
 
 ---
 
