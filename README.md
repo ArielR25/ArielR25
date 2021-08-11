@@ -66,3 +66,7 @@ Y por aquí unas capturas de spoiler :joy:
 
 ---
 
+# Muchas Gracias 
+
+:bowtie:
+
