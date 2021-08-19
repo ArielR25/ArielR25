@@ -51,18 +51,10 @@ Todavia no la deployé :see_no_evil: pero aqui te dejo un link al repo: :wink:
 
 [Mundo Gaming](https://github.com/ArielR25/MundoGaming)
 
-Y por aquí unas capturas de spoiler :joy:
+Y por aquí una captura de spoiler :joy:
 
 
 ![image](https://user-images.githubusercontent.com/82990938/129046269-491d910d-a05f-4f1c-b90e-31f182980f0a.png)
-
-#### Detalles de un video juego:
-
-![image](https://user-images.githubusercontent.com/82990938/129046986-fcd236dd-f10d-4fef-9685-3777b629e045.png)
-
-#### Creando un video juego:
-
-![image](https://user-images.githubusercontent.com/82990938/129054712-a7fcc4f0-90f1-4503-b1c8-c187f7a76f0b.png)
 
 ---
 
